@@ -65,7 +65,7 @@ header {
 footer p {
     text-align: center;
     color: #999999;
-    font-size: 12px;
+    font-size: 0.8rem;
 }
 
 #hamburguer {
@@ -295,7 +295,7 @@ aside {
     }
 
     #content {
-        padding: 2rem 5%;
+        padding: 7rem 5%;
     }
 }
 
